@@ -1,2 +1,2 @@
-- [前沿](basic/main)
+- [前沿](basic/main.md)
  - [背景摘要](basic/background)

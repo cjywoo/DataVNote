@@ -7,7 +7,7 @@
     "precommit": "lint-staged"
   },
   "lint-staged": {
-    "**/*.md": [
+    "docs/**/*.md": [
       "waque upload"
     ]
   },
