@@ -1,0 +1,29 @@
+{
+  "name": "DataVNote",
+  "version": "1.0.0",
+  "description": "数据可视化整理笔记",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "lint-staged"
+  },
+  "lint-staged": {
+    "**/*.md": [
+      "waque upload"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjywoo/DataVNote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjywoo/DataVNote/issues"
+  },
+  "homepage": "https://github.com/cjywoo/DataVNote#readme",
+  "devDependencies": {
+    "husky": "^4.2.1",
+    "lint-staged": "^10.0.3"
+  }
+}
