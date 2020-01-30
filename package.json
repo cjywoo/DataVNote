@@ -8,12 +8,12 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run precommit"
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
     "docs/**/*.md": [
-      "waque upload"
+      "waque upload -t eemEYI9BpBh5eD5cqh9usQH6Tx29SUVpkzJJ6BaR"
     ]
   },
   "repository": {

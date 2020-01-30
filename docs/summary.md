@@ -1,4 +1,13 @@
-- [前沿](basic_main)
- - [背景摘要](basic_babackground)
+- [前提概要](basic_main)
 - [设计风格](design_main)
- - [常见风格](design_usual)
+- [设计指南]
+ - [灵感收集]
+ - [确定可视化图表](guide_graph)
+ - [页面尺寸]
+ - [确立设计风格]
+ - [样图设计]
+- [工具与框架]
+ - [BAT公司的可视化平台](tool_bat)
+ - [开发库](tool_)
+ - [展示工具]
+- [落地与实践]
