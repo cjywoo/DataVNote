@@ -1,13 +1,13 @@
 - [前提概要](basic_main)
 - [设计风格](design_main)
-- [设计指南]
- - [灵感收集]
+- [设计指南](guide_main)
+ - [灵感收集](guide_idea)
  - [确定可视化图表](guide_graph)
- - [页面尺寸]
- - [确立设计风格]
- - [样图设计]
-- [工具与框架]
+ - [页面规划](guide_page)
+ - [确立设计风格](guide_style)
+ - [设计、开发、测试](guide_develop)
+- [工具与框架](tool_main)
  - [BAT公司的可视化平台](tool_bat)
- - [开发库](tool_)
- - [展示工具]
-- [落地与实践]
+ - [开发库](tool_lib)
+ - [展示工具](tool_display)
+- [落地与实践](zplan_main)
