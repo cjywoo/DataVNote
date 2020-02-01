@@ -19,6 +19,7 @@
 * [高德地图开放平台](https://lbs.amap.com/): 功能较全，特殊皮肤需收费
 * [百度地图](https://mapv.baidu.com/)
 * [mapbox中国](https://www.mapbox.cn/products): 商业用，不开源
+* [uber deck.gl](https://blog.csdn.net/wxqqq666/article/details/90640622)
 * [51world](http://www.51hitech.com/values/super-api): 商业用，能渲染3d类地图，不开源
 * [谷歌地图生成插件](https://github.com/eddiesigner/sketch-map-generator)
 * [Amcharts - 矢量地图定制下载](http://pixelmap.amcharts.com/#)
@@ -40,3 +41,4 @@
 可视化大屏必然包括绚丽的动画，比如过场动画、Loading、数据变化时，目前仅找到以下少许相关的库
 * [animate.css]()
 * [jquery插件网](http://www.jq22.com/)
+* [视频动画素材](这是一个专注视频模板和素材的网站(收费)，在此可以搜索出很多的HUD动效视频以及高清图片。)

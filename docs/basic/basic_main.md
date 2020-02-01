@@ -6,6 +6,8 @@
 [大屏监控系统数据可视化界面设计](https://www.ui.cn/detail/392039.html)
 [数据可视化设计师如何建立灵感库](https://www.ui.cn/detail/512558.html)
 [大数据可视化大屏设计经验分享](https://www.zcool.com.cn/article/ZNjg3NzQw.html)
+[思考数据可视化应用设计规范](https://www.zcool.com.cn/article/ZMTA5NTgzNg==.html)
+[城市GDP数据可视化设计案例分享](https://www.zcool.com.cn/article/ZMTA3NDAxMg==.html)
 
 下面其他的，内容有部分也有借鉴或者觉得比较的，再次也整理下
 [2019年数据可视化设计年度总结（风格总结及案例）](https://www.zcool.com.cn/work/ZNDE5ODA5ODQ=.html)
@@ -17,6 +19,8 @@
 [BYMD](https://i.ui.cn/ucenter/1224247.html)
 [乐开花](https://www.zcool.com.cn/u/12966844)
 [三鱼先生](https://feizai.zcool.com.cn/)
+[专注可视化小佬弟](https://www.zcool.com.cn/u/15192442)
+[hannah__](https://i.ui.cn/ucenter/152648.html)
 
 ## 什么是数据可视化
 
