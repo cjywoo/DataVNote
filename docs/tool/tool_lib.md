@@ -17,9 +17,12 @@
 ## 地图类库
 如果你的大屏中，需要用到地图数据展示，则需要能够绘制地图的类库，主要包括：
 * [高德地图开放平台](https://lbs.amap.com/): 功能较全，特殊皮肤需收费
-* [百度地图]()
+* [百度地图](https://mapv.baidu.com/)
 * [mapbox中国](https://www.mapbox.cn/products): 商业用，不开源
 * [51world](http://www.51hitech.com/values/super-api): 商业用，能渲染3d类地图，不开源
+* [谷歌地图生成插件](https://github.com/eddiesigner/sketch-map-generator)
+* [Amcharts - 矢量地图定制下载](http://pixelmap.amcharts.com/#)
+
 
 ## 3d渲染库
 如果需要绘制3d的渲染大屏，比如智能楼宇、智慧工厂或者3d鸟瞰图，则需要用到以下一种或者几种
@@ -36,3 +39,4 @@
 ## 动画类库
 可视化大屏必然包括绚丽的动画，比如过场动画、Loading、数据变化时，目前仅找到以下少许相关的库
 * [animate.css]()
+* [jquery插件网](http://www.jq22.com/)

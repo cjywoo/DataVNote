@@ -7,6 +7,7 @@
 * [dribbble](https://dribbble.com/)
 * [花瓣](https://huaban.com/)
 * [tob.design](https://tob.design/#/home)
+* [图扑软件](http://www.hightopo.com/demos/cn-index.html)
 
 相关的收集和搜索方法，见[数据可视化设计师如何建立灵感库](https://www.ui.cn/detail/512558.html)
 
